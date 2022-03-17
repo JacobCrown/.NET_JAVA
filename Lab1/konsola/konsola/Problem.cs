@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace konsola
 {
-    class Problem
+    public class Problem
     {
         public int n;
         public int seed;

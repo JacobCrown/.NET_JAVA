@@ -1,0 +1,15 @@
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\GUI.exe.config
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\GUI.exe
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\GUI.pdb
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\konsola.exe
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\konsola.pdb
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\bin\Debug\konsola.exe.config
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.exe
+C:\Users\macwilhe\source\repos\JacobCrown\.NET_JAVA\Lab1\konsola\GUI\obj\Debug\GUI.pdb

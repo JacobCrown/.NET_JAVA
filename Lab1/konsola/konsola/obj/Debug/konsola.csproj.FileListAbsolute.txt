@@ -6,3 +6,11 @@ C:\Users\jkoro\OneDrive\Pulpit\.NET_java\Lab1\konsola\konsola\bin\Debug\konsola.
 C:\Users\jkoro\OneDrive\Pulpit\.NET_java\Lab1\konsola\konsola\bin\Debug\konsola.pdb
 C:\Users\jkoro\OneDrive\Pulpit\.NET_java\Lab1\konsola\konsola\obj\Debug\konsola.exe
 C:\Users\jkoro\OneDrive\Pulpit\.NET_java\Lab1\konsola\konsola\obj\Debug\konsola.pdb
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\bin\Debug\konsola.exe.config
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\bin\Debug\konsola.exe
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\bin\Debug\konsola.pdb
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\obj\Debug\konsola.csproj.AssemblyReference.cache
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\obj\Debug\konsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\obj\Debug\konsola.csproj.CoreCompileInputs.cache
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\obj\Debug\konsola.exe
+C:\Users\macwilhe\Source\Repos\JacobCrown\.NET_JAVA\Lab1\konsola\konsola\obj\Debug\konsola.pdb

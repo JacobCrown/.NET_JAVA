@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace konsola
 {
-    class Item
+    public class Item
     {
         public int number;
         public int val;
