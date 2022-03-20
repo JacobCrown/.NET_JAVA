@@ -46,15 +46,19 @@ namespace GUI
         {
             int n = int.Parse(tB_N.Text);
             int c = int.Parse(tB_C.Text);
-            int Seed = int.Parse(tB_N.Text);
-            Problem p = new Problem(n, Seed, c);
-            tB_big.Text = p.ToString();
-            //cos jeszcze potrzeba
+            int seed = int.Parse(tB_N.Text);
+            Problem p = new Problem(n, seed, c);
+            p.generateSeedValues();
+            tB_big.Text = "Przed sortowaniem:\r\n";
+            tB_big.Text += p.ToString() + "\r\n";
+            tB_big.Text += "Po sortowaniu:\r\n";
+            p.items.Sort(delegate (Item x, Item y)
+            {
+                return (y.w * y.val).CompareTo(x.w * x.val);
+            });
+            tB_big.Text += p.ToString() + "\r\n";
+            tB_big.Text += p.solveProblemForGUI();
         }
 
-        private void tB_big_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
     }
 }

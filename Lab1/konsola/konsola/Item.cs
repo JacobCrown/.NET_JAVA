@@ -19,7 +19,7 @@ namespace konsola
         }
         public override string ToString()
         {
-            return number.ToString() + ": Value: " + val.ToString() + " Weight: " + w.ToString() + " v*w: " + (w*val).ToString();
+            return number.ToString() + "-> Value: " + val.ToString() + " | Weight: " + w.ToString() + " | v*w: " + (w*val).ToString();
         }
     }
 }

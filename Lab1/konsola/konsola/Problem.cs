@@ -27,7 +27,7 @@ namespace konsola
         {
             foreach (Item item in items)
             {
-                if (c - item.w > 0)
+                if (c - item.w >= 0)
                 {
                     plecak.Add(item);
                     c -= item.w;
@@ -43,13 +43,36 @@ namespace konsola
             
         }
 
+        public string solveProblemForGUI()
+        {
+            foreach (Item item in items)
+            {
+                if (c - item.w >= 0)
+                {
+                    plecak.Add(item);
+                    c -= item.w;
+                }
+            }
+
+            string s = "";
+
+            s = "Pleacak zawiera następującą zawartość\r\n";
+            for (int i = 0; i < plecak.Count(); i++)
+            {
+                s += plecak[i] + "\r\n";
+            }
+
+            return s; 
+        }
+
+
         public override string ToString()
         {
             string s = "";
             for(int i = 0; i < n; i++)
             {
                 s += Convert.ToString(items[i]);
-                s += '\n';
+                s += "\r\n";
             }
             return s;
         }

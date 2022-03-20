@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lab1",
+    "\\Lab1\\konsola",
+    "\\Lab1\\konsola\\GUI",
+    "\\Lab1\\konsola\\konsola"
   ],
+  "SelectedNode": "\\Lab1\\konsola",
   "PreviewInSolutionExplorer": false
 }
