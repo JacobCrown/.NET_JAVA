@@ -1,0 +1,500 @@
+Pleacak zawiera następującą zawartość
+2-> Value: 23 | Weight: 24 | v*w: 552
+3-> Value: 14 | Weight: 22 | v*w: 308
+4-> Value: 13 | Weight: 9 | v*w: 117
+1-> Value: 19 | Weight: 5 | v*w: 95
+Pleacak zawiera następującą zawartość
+4-> Value: 21 | Weight: 20 | v*w: 420
+3-> Value: 17 | Weight: 16 | v*w: 272
+1-> Value: 7 | Weight: 9 | v*w: 63
+2-> Value: 7 | Weight: 3 | v*w: 21
+Pleacak zawiera następującą zawartość
+4-> Value: 12 | Weight: 24 | v*w: 288
+3-> Value: 13 | Weight: 10 | v*w: 130
+2-> Value: 15 | Weight: 6 | v*w: 90
+1-> Value: 2 | Weight: 20 | v*w: 40
+Pleacak zawiera następującą zawartość
+4-> Value: 20 | Weight: 11 | v*w: 220
+1-> Value: 14 | Weight: 7 | v*w: 98
+3-> Value: 16 | Weight: 4 | v*w: 64
+2-> Value: 6 | Weight: 2 | v*w: 12
+Pleacak zawiera następującą zawartość
+3-> Value: 12 | Weight: 22 | v*w: 264
+4-> Value: 11 | Weight: 15 | v*w: 165
+1-> Value: 9 | Weight: 18 | v*w: 162
+2-> Value: 14 | Weight: 5 | v*w: 70
+Pleacak zawiera następującą zawartość
+1-> Value: 21 | Weight: 22 | v*w: 462
+3-> Value: 15 | Weight: 23 | v*w: 345
+2-> Value: 22 | Weight: 8 | v*w: 176
+4-> Value: 19 | Weight: 2 | v*w: 38
+Pleacak zawiera następującą zawartość
+3-> Value: 18 | Weight: 17 | v*w: 306
+1-> Value: 16 | Weight: 9 | v*w: 144
+2-> Value: 13 | Weight: 11 | v*w: 143
+4-> Value: 10 | Weight: 6 | v*w: 60
+Pleacak zawiera następującą zawartość
+4-> Value: 18 | Weight: 17 | v*w: 306
+3-> Value: 14 | Weight: 11 | v*w: 154
+2-> Value: 21 | Weight: 7 | v*w: 147
+1-> Value: 4 | Weight: 20 | v*w: 80
+Pleacak zawiera następującą zawartość
+1-> Value: 23 | Weight: 24 | v*w: 552
+4-> Value: 9 | Weight: 21 | v*w: 189
+3-> Value: 17 | Weight: 5 | v*w: 85
+2-> Value: 5 | Weight: 10 | v*w: 50
+Pleacak zawiera następującą zawartość
+3-> Value: 13 | Weight: 23 | v*w: 299
+4-> Value: 24 | Weight: 8 | v*w: 192
+2-> Value: 13 | Weight: 13 | v*w: 169
+1-> Value: 11 | Weight: 11 | v*w: 121
+Pleacak zawiera następującą zawartość
+3-> Value: 16 | Weight: 17 | v*w: 272
+1-> Value: 6 | Weight: 22 | v*w: 132
+4-> Value: 8 | Weight: 12 | v*w: 96
+2-> Value: 4 | Weight: 16 | v*w: 64
+Pleacak zawiera następującą zawartość
+4-> Value: 23 | Weight: 23 | v*w: 529
+2-> Value: 12 | Weight: 19 | v*w: 228
+3-> Value: 12 | Weight: 11 | v*w: 132
+1-> Value: 18 | Weight: 2 | v*w: 36
+Pleacak zawiera następującą zawartość
+2-> Value: 20 | Weight: 15 | v*w: 300
+1-> Value: 13 | Weight: 13 | v*w: 169
+3-> Value: 15 | Weight: 5 | v*w: 75
+4-> Value: 7 | Weight: 3 | v*w: 21
+Pleacak zawiera następującą zawartość
+4-> Value: 22 | Weight: 14 | v*w: 308
+2-> Value: 11 | Weight: 18 | v*w: 198
+3-> Value: 11 | Weight: 6 | v*w: 66
+1-> Value: 1 | Weight: 24 | v*w: 24
+Pleacak zawiera następującą zawartość
+2-> Value: 19 | Weight: 21 | v*w: 399
+3-> Value: 14 | Weight: 24 | v*w: 336
+1-> Value: 13 | Weight: 11 | v*w: 143
+4-> Value: 6 | Weight: 18 | v*w: 108
+Pleacak zawiera następującą zawartość
+3-> Value: 17 | Weight: 18 | v*w: 306
+1-> Value: 8 | Weight: 15 | v*w: 120
+4-> Value: 21 | Weight: 5 | v*w: 105
+2-> Value: 3 | Weight: 24 | v*w: 72
+Pleacak zawiera następującą zawartość
+3-> Value: 13 | Weight: 12 | v*w: 156
+2-> Value: 18 | Weight: 3 | v*w: 54
+4-> Value: 5 | Weight: 9 | v*w: 45
+1-> Value: 20 | Weight: 2 | v*w: 40
+Pleacak zawiera następującą zawartość
+4-> Value: 20 | Weight: 20 | v*w: 400
+1-> Value: 15 | Weight: 13 | v*w: 195
+3-> Value: 16 | Weight: 6 | v*w: 96
+2-> Value: 2 | Weight: 23 | v*w: 46
+Pleacak zawiera następującą zawartość
+3-> Value: 12 | Weight: 24 | v*w: 288
+4-> Value: 11 | Weight: 24 | v*w: 264
+1-> Value: 3 | Weight: 17 | v*w: 51
+2-> Value: 10 | Weight: 2 | v*w: 20
+Pleacak zawiera następującą zawartość
+3-> Value: 15 | Weight: 18 | v*w: 270
+4-> Value: 19 | Weight: 11 | v*w: 209
+2-> Value: 18 | Weight: 5 | v*w: 90
+1-> Value: 22 | Weight: 4 | v*w: 88
+Pleacak zawiera następującą zawartość
+1-> Value: 10 | Weight: 15 | v*w: 150
+4-> Value: 10 | Weight: 15 | v*w: 150
+3-> Value: 11 | Weight: 12 | v*w: 132
+2-> Value: 9 | Weight: 8 | v*w: 72
+Pleacak zawiera następującą zawartość
+3-> Value: 14 | Weight: 13 | v*w: 182
+2-> Value: 17 | Weight: 4 | v*w: 68
+4-> Value: 18 | Weight: 2 | v*w: 36
+1-> Value: 5 | Weight: 2 | v*w: 10
+Pleacak zawiera następującą zawartość
+1-> Value: 17 | Weight: 6 | v*w: 102
+3-> Value: 10 | Weight: 7 | v*w: 70
+4-> Value: 9 | Weight: 6 | v*w: 54
+2-> Value: 1 | Weight: 7 | v*w: 7
+Pleacak zawiera następującą zawartość
+4-> Value: 17 | Weight: 17 | v*w: 289
+1-> Value: 12 | Weight: 17 | v*w: 204
+2-> Value: 16 | Weight: 10 | v*w: 160
+3-> Value: 13 | Weight: 1 | v*w: 13
+Pleacak zawiera następującą zawartość
+2-> Value: 24 | Weight: 13 | v*w: 312
+3-> Value: 9 | Weight: 19 | v*w: 171
+4-> Value: 8 | Weight: 21 | v*w: 168
+1-> Value: 24 | Weight: 4 | v*w: 96
+Pleacak zawiera następującą zawartość
+3-> Value: 12 | Weight: 13 | v*w: 156
+1-> Value: 19 | Weight: 8 | v*w: 152
+2-> Value: 8 | Weight: 16 | v*w: 128
+4-> Value: 16 | Weight: 8 | v*w: 128
+Pleacak zawiera następującą zawartość
+2-> Value: 23 | Weight: 12 | v*w: 276
+1-> Value: 7 | Weight: 19 | v*w: 133
+3-> Value: 15 | Weight: 7 | v*w: 105
+4-> Value: 7 | Weight: 12 | v*w: 84
+Pleacak zawiera następującą zawartość
+4-> Value: 15 | Weight: 23 | v*w: 345
+2-> Value: 7 | Weight: 15 | v*w: 105
+1-> Value: 2 | Weight: 6 | v*w: 12
+3-> Value: 11 | Weight: 1 | v*w: 11
+Pleacak zawiera następującą zawartość
+2-> Value: 15 | Weight: 18 | v*w: 270
+3-> Value: 14 | Weight: 19 | v*w: 266
+1-> Value: 14 | Weight: 10 | v*w: 140
+4-> Value: 6 | Weight: 3 | v*w: 18
+Pleacak zawiera następującą zawartość
+2-> Value: 23 | Weight: 21 | v*w: 483
+4-> Value: 21 | Weight: 14 | v*w: 294
+3-> Value: 10 | Weight: 20 | v*w: 200
+1-> Value: 9 | Weight: 21 | v*w: 189
+Pleacak zawiera następującą zawartość
+2-> Value: 14 | Weight: 24 | v*w: 336
+3-> Value: 13 | Weight: 14 | v*w: 182
+1-> Value: 21 | Weight: 8 | v*w: 168
+4-> Value: 5 | Weight: 18 | v*w: 90
+Pleacak zawiera następującą zawartość
+2-> Value: 22 | Weight: 20 | v*w: 440
+1-> Value: 16 | Weight: 19 | v*w: 304
+4-> Value: 20 | Weight: 5 | v*w: 100
+3-> Value: 9 | Weight: 8 | v*w: 72
+Pleacak zawiera następującą zawartość
+2-> Value: 6 | Weight: 23 | v*w: 138
+1-> Value: 4 | Weight: 23 | v*w: 92
+4-> Value: 4 | Weight: 9 | v*w: 36
+3-> Value: 12 | Weight: 2 | v*w: 24
+Pleacak zawiera następującą zawartość
+4-> Value: 19 | Weight: 20 | v*w: 380
+1-> Value: 23 | Weight: 10 | v*w: 230
+3-> Value: 8 | Weight: 20 | v*w: 160
+2-> Value: 21 | Weight: 2 | v*w: 42
+Pleacak zawiera następującą zawartość
+1-> Value: 11 | Weight: 21 | v*w: 231
+3-> Value: 11 | Weight: 14 | v*w: 154
+4-> Value: 3 | Weight: 24 | v*w: 72
+2-> Value: 5 | Weight: 5 | v*w: 25
+Pleacak zawiera następującą zawartość
+4-> Value: 18 | Weight: 4 | v*w: 72
+3-> Value: 7 | Weight: 8 | v*w: 56
+1-> Value: 23 | Weight: 1 | v*w: 23
+2-> Value: 13 | Weight: 1 | v*w: 13
+Pleacak zawiera następującą zawartość
+1-> Value: 18 | Weight: 12 | v*w: 216
+4-> Value: 2 | Weight: 15 | v*w: 30
+3-> Value: 10 | Weight: 2 | v*w: 20
+2-> Value: 4 | Weight: 4 | v*w: 16
+Pleacak zawiera następującą zawartość
+4-> Value: 17 | Weight: 19 | v*w: 323
+1-> Value: 6 | Weight: 23 | v*w: 138
+2-> Value: 12 | Weight: 7 | v*w: 84
+3-> Value: 13 | Weight: 3 | v*w: 39
+Pleacak zawiera następującą zawartość
+2-> Value: 20 | Weight: 10 | v*w: 200
+3-> Value: 9 | Weight: 21 | v*w: 189
+4-> Value: 8 | Weight: 6 | v*w: 48
+1-> Value: 1 | Weight: 10 | v*w: 10
+Pleacak zawiera następującą zawartość
+1-> Value: 13 | Weight: 14 | v*w: 182
+3-> Value: 12 | Weight: 15 | v*w: 180
+4-> Value: 16 | Weight: 10 | v*w: 160
+2-> Value: 4 | Weight: 13 | v*w: 52
+Pleacak zawiera następującą zawartość
+2-> Value: 19 | Weight: 9 | v*w: 171
+4-> Value: 7 | Weight: 21 | v*w: 147
+3-> Value: 8 | Weight: 9 | v*w: 72
+1-> Value: 8 | Weight: 1 | v*w: 8
+Pleacak zawiera następującą zawartość
+1-> Value: 20 | Weight: 12 | v*w: 240
+2-> Value: 3 | Weight: 12 | v*w: 36
+3-> Value: 11 | Weight: 3 | v*w: 33
+4-> Value: 15 | Weight: 1 | v*w: 15
+Pleacak zawiera następującą zawartość
+1-> Value: 15 | Weight: 16 | v*w: 240
+2-> Value: 11 | Weight: 15 | v*w: 165
+3-> Value: 7 | Weight: 21 | v*w: 147
+4-> Value: 6 | Weight: 12 | v*w: 72
+Pleacak zawiera następującą zawartość
+4-> Value: 14 | Weight: 16 | v*w: 224
+3-> Value: 10 | Weight: 15 | v*w: 150
+2-> Value: 2 | Weight: 18 | v*w: 36
+1-> Value: 3 | Weight: 3 | v*w: 9
+Pleacak zawiera następującą zawartość
+1-> Value: 22 | Weight: 14 | v*w: 308
+2-> Value: 10 | Weight: 21 | v*w: 210
+3-> Value: 6 | Weight: 9 | v*w: 54
+4-> Value: 5 | Weight: 3 | v*w: 15
+Pleacak zawiera następującą zawartość
+2-> Value: 18 | Weight: 17 | v*w: 306
+1-> Value: 10 | Weight: 18 | v*w: 180
+4-> Value: 13 | Weight: 7 | v*w: 91
+3-> Value: 9 | Weight: 10 | v*w: 90
+Pleacak zawiera następującą zawartość
+2-> Value: 9 | Weight: 20 | v*w: 180
+4-> Value: 4 | Weight: 18 | v*w: 72
+3-> Value: 12 | Weight: 4 | v*w: 48
+1-> Value: 5 | Weight: 5 | v*w: 25
+Pleacak zawiera następującą zawartość
+4-> Value: 19 | Weight: 22 | v*w: 418
+2-> Value: 17 | Weight: 23 | v*w: 391
+1-> Value: 17 | Weight: 16 | v*w: 272
+3-> Value: 8 | Weight: 22 | v*w: 176
+Pleacak zawiera następującą zawartość
+3-> Value: 11 | Weight: 16 | v*w: 176
+1-> Value: 12 | Weight: 3 | v*w: 36
+4-> Value: 3 | Weight: 9 | v*w: 27
+2-> Value: 1 | Weight: 2 | v*w: 2
+Pleacak zawiera następującą zawartość
+4-> Value: 18 | Weight: 13 | v*w: 234
+2-> Value: 9 | Weight: 22 | v*w: 198
+1-> Value: 24 | Weight: 7 | v*w: 168
+3-> Value: 7 | Weight: 10 | v*w: 70
+Pleacak zawiera następującą zawartość
+1-> Value: 19 | Weight: 18 | v*w: 342
+4-> Value: 2 | Weight: 24 | v*w: 48
+3-> Value: 10 | Weight: 4 | v*w: 40
+2-> Value: 24 | Weight: 1 | v*w: 24
+Pleacak zawiera następującą zawartość
+3-> Value: 6 | Weight: 22 | v*w: 132
+4-> Value: 17 | Weight: 4 | v*w: 68
+1-> Value: 7 | Weight: 5 | v*w: 35
+2-> Value: 8 | Weight: 4 | v*w: 32
+Pleacak zawiera następującą zawartość
+3-> Value: 9 | Weight: 16 | v*w: 144
+2-> Value: 16 | Weight: 7 | v*w: 112
+1-> Value: 2 | Weight: 9 | v*w: 18
+4-> Value: 1 | Weight: 15 | v*w: 15
+Pleacak zawiera następującą zawartość
+4-> Value: 16 | Weight: 19 | v*w: 304
+1-> Value: 14 | Weight: 20 | v*w: 280
+3-> Value: 5 | Weight: 17 | v*w: 85
+2-> Value: 7 | Weight: 10 | v*w: 70
+Pleacak zawiera następującą zawartość
+4-> Value: 24 | Weight: 6 | v*w: 144
+2-> Value: 15 | Weight: 6 | v*w: 90
+3-> Value: 8 | Weight: 11 | v*w: 88
+1-> Value: 9 | Weight: 7 | v*w: 63
+Pleacak zawiera następującą zawartość
+1-> Value: 21 | Weight: 18 | v*w: 378
+2-> Value: 23 | Weight: 9 | v*w: 207
+4-> Value: 15 | Weight: 10 | v*w: 150
+3-> Value: 4 | Weight: 5 | v*w: 20
+Pleacak zawiera następującą zawartość
+1-> Value: 16 | Weight: 22 | v*w: 352
+2-> Value: 14 | Weight: 12 | v*w: 168
+3-> Value: 7 | Weight: 23 | v*w: 161
+4-> Value: 6 | Weight: 21 | v*w: 126
+Pleacak zawiera następującą zawartość
+2-> Value: 22 | Weight: 15 | v*w: 330
+3-> Value: 10 | Weight: 17 | v*w: 170
+1-> Value: 4 | Weight: 9 | v*w: 36
+4-> Value: 14 | Weight: 1 | v*w: 14
+Pleacak zawiera następującą zawartość
+1-> Value: 16 | Weight: 20 | v*w: 320
+2-> Value: 6 | Weight: 18 | v*w: 108
+3-> Value: 6 | Weight: 11 | v*w: 66
+4-> Value: 5 | Weight: 12 | v*w: 60
+Pleacak zawiera następującą zawartość
+1-> Value: 11 | Weight: 24 | v*w: 264
+4-> Value: 13 | Weight: 16 | v*w: 208
+2-> Value: 14 | Weight: 14 | v*w: 196
+3-> Value: 9 | Weight: 5 | v*w: 45
+Pleacak zawiera następującą zawartość
+1-> Value: 23 | Weight: 11 | v*w: 253
+2-> Value: 5 | Weight: 17 | v*w: 85
+3-> Value: 5 | Weight: 6 | v*w: 30
+4-> Value: 4 | Weight: 3 | v*w: 12
+Pleacak zawiera następującą zawartość
+1-> Value: 18 | Weight: 22 | v*w: 396
+2-> Value: 13 | Weight: 20 | v*w: 260
+3-> Value: 8 | Weight: 24 | v*w: 192
+4-> Value: 12 | Weight: 7 | v*w: 84
+Pleacak zawiera następującą zawartość
+2-> Value: 21 | Weight: 23 | v*w: 483
+3-> Value: 4 | Weight: 18 | v*w: 72
+4-> Value: 3 | Weight: 18 | v*w: 54
+1-> Value: 6 | Weight: 2 | v*w: 12
+Pleacak zawiera następującą zawartość
+4-> Value: 11 | Weight: 22 | v*w: 242
+2-> Value: 12 | Weight: 19 | v*w: 228
+3-> Value: 7 | Weight: 12 | v*w: 84
+1-> Value: 1 | Weight: 13 | v*w: 13
+Pleacak zawiera następującą zawartość
+2-> Value: 20 | Weight: 22 | v*w: 440
+1-> Value: 13 | Weight: 24 | v*w: 312
+3-> Value: 3 | Weight: 6 | v*w: 18
+4-> Value: 2 | Weight: 9 | v*w: 18
+Pleacak zawiera następującą zawartość
+3-> Value: 6 | Weight: 24 | v*w: 144
+4-> Value: 10 | Weight: 13 | v*w: 130
+1-> Value: 8 | Weight: 11 | v*w: 88
+2-> Value: 4 | Weight: 1 | v*w: 4
+Pleacak zawiera następującą zawartość
+1-> Value: 20 | Weight: 15 | v*w: 300
+2-> Value: 19 | Weight: 4 | v*w: 76
+3-> Value: 2 | Weight: 18 | v*w: 36
+4-> Value: 1 | Weight: 24 | v*w: 24
+Pleacak zawiera następującą zawartość
+4-> Value: 16 | Weight: 4 | v*w: 64
+3-> Value: 5 | Weight: 12 | v*w: 60
+1-> Value: 15 | Weight: 2 | v*w: 30
+2-> Value: 3 | Weight: 7 | v*w: 21
+Pleacak zawiera następującą zawartość
+4-> Value: 24 | Weight: 15 | v*w: 360
+3-> Value: 8 | Weight: 13 | v*w: 104
+1-> Value: 3 | Weight: 13 | v*w: 39
+2-> Value: 11 | Weight: 3 | v*w: 33
+Pleacak zawiera następującą zawartość
+1-> Value: 22 | Weight: 17 | v*w: 374
+4-> Value: 15 | Weight: 19 | v*w: 285
+3-> Value: 4 | Weight: 7 | v*w: 28
+2-> Value: 2 | Weight: 6 | v*w: 12
+Pleacak zawiera następującą zawartość
+4-> Value: 23 | Weight: 6 | v*w: 138
+2-> Value: 10 | Weight: 9 | v*w: 90
+1-> Value: 10 | Weight: 4 | v*w: 40
+3-> Value: 7 | Weight: 1 | v*w: 7
+Pleacak zawiera następującą zawartość
+2-> Value: 18 | Weight: 12 | v*w: 216
+4-> Value: 14 | Weight: 10 | v*w: 140
+1-> Value: 5 | Weight: 15 | v*w: 75
+3-> Value: 3 | Weight: 19 | v*w: 57
+Pleacak zawiera następującą zawartość
+4-> Value: 22 | Weight: 21 | v*w: 462
+3-> Value: 6 | Weight: 13 | v*w: 78
+1-> Value: 17 | Weight: 2 | v*w: 34
+2-> Value: 2 | Weight: 15 | v*w: 30
+Pleacak zawiera następującą zawartość
+2-> Value: 17 | Weight: 11 | v*w: 187
+1-> Value: 12 | Weight: 6 | v*w: 72
+3-> Value: 2 | Weight: 7 | v*w: 14
+4-> Value: 13 | Weight: 1 | v*w: 13
+Pleacak zawiera następującą zawartość
+1-> Value: 24 | Weight: 17 | v*w: 408
+4-> Value: 21 | Weight: 12 | v*w: 252
+2-> Value: 1 | Weight: 14 | v*w: 14
+3-> Value: 5 | Weight: 1 | v*w: 5
+Pleacak zawiera następującą zawartość
+4-> Value: 12 | Weight: 16 | v*w: 192
+2-> Value: 9 | Weight: 17 | v*w: 153
+1-> Value: 19 | Weight: 4 | v*w: 76
+3-> Value: 1 | Weight: 19 | v*w: 19
+Pleacak zawiera następującą zawartość
+2-> Value: 24 | Weight: 20 | v*w: 480
+3-> Value: 4 | Weight: 20 | v*w: 80
+1-> Value: 7 | Weight: 8 | v*w: 56
+4-> Value: 3 | Weight: 3 | v*w: 9
+Pleacak zawiera następującą zawartość
+2-> Value: 8 | Weight: 23 | v*w: 184
+3-> Value: 7 | Weight: 14 | v*w: 98
+4-> Value: 11 | Weight: 7 | v*w: 77
+1-> Value: 2 | Weight: 19 | v*w: 38
+Pleacak zawiera następującą zawartość
+2-> Value: 16 | Weight: 19 | v*w: 304
+1-> Value: 14 | Weight: 6 | v*w: 84
+4-> Value: 2 | Weight: 18 | v*w: 36
+3-> Value: 3 | Weight: 8 | v*w: 24
+Pleacak zawiera następującą zawartość
+4-> Value: 10 | Weight: 22 | v*w: 220
+2-> Value: 7 | Weight: 22 | v*w: 154
+1-> Value: 9 | Weight: 17 | v*w: 153
+3-> Value: 6 | Weight: 2 | v*w: 12
+Pleacak zawiera następującą zawartość
+1-> Value: 21 | Weight: 21 | v*w: 441
+3-> Value: 2 | Weight: 20 | v*w: 40
+2-> Value: 15 | Weight: 1 | v*w: 15
+4-> Value: 1 | Weight: 9 | v*w: 9
+Pleacak zawiera następującą zawartość
+4-> Value: 9 | Weight: 13 | v*w: 117
+2-> Value: 23 | Weight: 4 | v*w: 92
+1-> Value: 9 | Weight: 8 | v*w: 72
+3-> Value: 5 | Weight: 14 | v*w: 70
+Pleacak zawiera następującą zawartość
+4-> Value: 24 | Weight: 24 | v*w: 576
+2-> Value: 7 | Weight: 24 | v*w: 168
+1-> Value: 4 | Weight: 19 | v*w: 76
+3-> Value: 1 | Weight: 8 | v*w: 8
+Pleacak zawiera następującą zawartość
+1-> Value: 16 | Weight: 23 | v*w: 368
+2-> Value: 22 | Weight: 3 | v*w: 66
+4-> Value: 8 | Weight: 4 | v*w: 32
+3-> Value: 4 | Weight: 2 | v*w: 8
+Pleacak zawiera następującą zawartość
+4-> Value: 23 | Weight: 15 | v*w: 345
+1-> Value: 11 | Weight: 10 | v*w: 110
+3-> Value: 24 | Weight: 3 | v*w: 72
+2-> Value: 6 | Weight: 6 | v*w: 36
+Pleacak zawiera następującą zawartość
+1-> Value: 23 | Weight: 21 | v*w: 483
+4-> Value: 14 | Weight: 19 | v*w: 266
+2-> Value: 14 | Weight: 9 | v*w: 126
+3-> Value: 3 | Weight: 21 | v*w: 63
+Pleacak zawiera następującą zawartość
+3-> Value: 23 | Weight: 15 | v*w: 345
+4-> Value: 22 | Weight: 6 | v*w: 132
+2-> Value: 5 | Weight: 12 | v*w: 60
+1-> Value: 18 | Weight: 1 | v*w: 18
+Pleacak zawiera następującą zawartość
+4-> Value: 13 | Weight: 10 | v*w: 130
+2-> Value: 13 | Weight: 8 | v*w: 104
+1-> Value: 6 | Weight: 12 | v*w: 72
+3-> Value: 2 | Weight: 9 | v*w: 18
+Pleacak zawiera następującą zawartość
+4-> Value: 21 | Weight: 21 | v*w: 441
+2-> Value: 21 | Weight: 11 | v*w: 231
+1-> Value: 1 | Weight: 23 | v*w: 23
+3-> Value: 5 | Weight: 3 | v*w: 15
+Pleacak zawiera następującą zawartość
+2-> Value: 12 | Weight: 14 | v*w: 168
+1-> Value: 13 | Weight: 10 | v*w: 130
+3-> Value: 1 | Weight: 21 | v*w: 21
+4-> Value: 12 | Weight: 1 | v*w: 12
+Pleacak zawiera następującą zawartość
+2-> Value: 20 | Weight: 17 | v*w: 340
+4-> Value: 20 | Weight: 12 | v*w: 240
+1-> Value: 8 | Weight: 14 | v*w: 112
+3-> Value: 4 | Weight: 15 | v*w: 60
+Pleacak zawiera następującą zawartość
+3-> Value: 24 | Weight: 9 | v*w: 216
+4-> Value: 11 | Weight: 16 | v*w: 176
+2-> Value: 4 | Weight: 20 | v*w: 80
+1-> Value: 20 | Weight: 1 | v*w: 20
+Pleacak zawiera następującą zawartość
+2-> Value: 12 | Weight: 16 | v*w: 192
+1-> Value: 15 | Weight: 12 | v*w: 180
+4-> Value: 19 | Weight: 3 | v*w: 57
+3-> Value: 3 | Weight: 10 | v*w: 30
+Pleacak zawiera następującą zawartość
+3-> Value: 23 | Weight: 4 | v*w: 92
+4-> Value: 10 | Weight: 7 | v*w: 70
+2-> Value: 3 | Weight: 19 | v*w: 57
+1-> Value: 3 | Weight: 16 | v*w: 48
+Pleacak zawiera następującą zawartość
+4-> Value: 18 | Weight: 18 | v*w: 324
+2-> Value: 11 | Weight: 22 | v*w: 242
+1-> Value: 22 | Weight: 3 | v*w: 66
+3-> Value: 2 | Weight: 22 | v*w: 44
+Pleacak zawiera następującą zawartość
+3-> Value: 22 | Weight: 16 | v*w: 352
+4-> Value: 9 | Weight: 22 | v*w: 198
+1-> Value: 10 | Weight: 14 | v*w: 140
+2-> Value: 19 | Weight: 1 | v*w: 19
+Pleacak zawiera następującą zawartość
+4-> Value: 24 | Weight: 9 | v*w: 216
+2-> Value: 10 | Weight: 21 | v*w: 210
+3-> Value: 1 | Weight: 10 | v*w: 10
+1-> Value: 5 | Weight: 1 | v*w: 5
+Pleacak zawiera następującą zawartość
+2-> Value: 18 | Weight: 24 | v*w: 432
+4-> Value: 8 | Weight: 13 | v*w: 104
+1-> Value: 17 | Weight: 5 | v*w: 85
+3-> Value: 21 | Weight: 4 | v*w: 84
+Pleacak zawiera następującą zawartość
+4-> Value: 23 | Weight: 24 | v*w: 552
+3-> Value: 24 | Weight: 22 | v*w: 528
+1-> Value: 12 | Weight: 16 | v*w: 192
+2-> Value: 2 | Weight: 3 | v*w: 6
+Pleacak zawiera następującą zawartość
+2-> Value: 17 | Weight: 6 | v*w: 102
+1-> Value: 24 | Weight: 3 | v*w: 72
+3-> Value: 3 | Weight: 16 | v*w: 48
+4-> Value: 7 | Weight: 4 | v*w: 28
