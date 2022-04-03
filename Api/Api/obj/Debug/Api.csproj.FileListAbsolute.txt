@@ -1,0 +1,14 @@
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\bin\Debug\Api.exe.config
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\bin\Debug\Api.exe
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\bin\Debug\Api.pdb
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.Properties.Resources.resources
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.csproj.GenerateResource.cache
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.exe
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.pdb
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.Form1.resources
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jkoro\OneDrive\Pulpit\Programming\C#\tutorial\Api\Api\obj\Debug\Api.csproj.CopyComplete
