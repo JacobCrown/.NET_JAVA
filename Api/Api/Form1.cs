@@ -15,18 +15,32 @@ namespace Api
     public partial class Form1 : Form
     {
         public Chuck chuck;
+        private Chuck_DB db;
         public Form1()
         {
+
             InitializeComponent();
+            db = new Chuck_DB(); // nowy obiekt z bazy danych chakow
             chuck = new Chuck();
             listBox1.Items.Add("Hello there");
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             getResponseAsync();
             listBox1.Items.Clear();
-            listBox1.Items.Add(chuck.ToString());
+            //listBox1.Items.Add(chuck.ToString());
+            var context = new Chuck_DB();
+            context.Chucks.Add(chuck);
+            context.SaveChanges();
+
+            var chucks = (from s in context.Chucks select s).ToList<Chuck>();
+            foreach (var chuck in chucks)
+            {
+                listBox1.Items.Add(chuck.ToString());
+            }
+
         }
 
         private async Task<string> getResponseAsync()

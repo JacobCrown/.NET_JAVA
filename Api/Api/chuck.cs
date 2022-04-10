@@ -8,14 +8,17 @@ namespace Api
 {
     public class Chuck
     {
-        public string chuck_id;
+        //public string chuck_id;
+        public int chuckID { get; set; } // musi być chyba int żeby bd działał
         public string value;
 
+        /*
         public Chuck (string id = "", string j = "")
         {
             chuck_id = id;
             value = j;
         }
+        */
 
         public override string ToString()
         {
