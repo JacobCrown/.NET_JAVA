@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 using System.Net.Http;
+using System.Data.Entity; //dla entityframework
 
 namespace Api
 {
@@ -28,14 +29,13 @@ namespace Api
 
         private void button1_Click(object sender, EventArgs e)
         {
-            getResponseAsync();
             listBox1.Items.Clear();
             //listBox1.Items.Add(chuck.ToString());
-            var context = new Chuck_DB();
-            context.Chucks.Add(chuck);
-            context.SaveChanges();
+//            var context = new Chuck_DB();
+            //System.Threading.Thread.Sleep(5000);
 
-            var chucks = (from s in context.Chucks select s).ToList<Chuck>();
+            var chucks = (from s in db.Chucks select s).ToList<Chuck>();
+            //var chucks = DbSet<Chuck>().ToList<Chuck>();
             foreach (var chuck in chucks)
             {
                 listBox1.Items.Add(chuck.ToString());
@@ -50,6 +50,18 @@ namespace Api
             string response = await client.GetStringAsync(call);
             chuck = JsonConvert.DeserializeObject<Chuck>(response);
             return response;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            getResponseAsync();
+            //var context = new Chuck_DB();
+            listBox1.Items.Clear();
+            listBox1.Items.Add("Item added to database:" + chuck.ToString());
+            db.Chucks.Add(chuck);
+            db.SaveChanges();
+
+
         }
     }
 }
