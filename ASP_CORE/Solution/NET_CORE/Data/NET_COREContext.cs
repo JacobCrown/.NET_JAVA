@@ -16,5 +16,7 @@ namespace NET_CORE.Data
         }
 
         public DbSet<NET_CORE.Models.Game> Game { get; set; }
+
+        public DbSet<NET_CORE.Models.Lecture> Lecture { get; set; }
     }
 }

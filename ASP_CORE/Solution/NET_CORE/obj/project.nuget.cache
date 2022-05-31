@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlbCK9gCghDVr4NPkzcDdhHhkMqq+d10KD82VkS2s+LQjAEaNFD8s9DtHlvfoQ0yzKplPmHnE5FSUQBVqfePxw==",
+  "dgSpecHash": "/u5ul7FCB+x752i+1C1rdwhN6d/LIoEoIIqk8zyyrWmFg+NtTgIAUJvmFV5AKtqCunC4HuIt6KIhBLM1MMEfAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jkoro\\OneDrive\\Pulpit\\Programming\\C#\\Book\\Solution\\NET_CORE\\NET_CORE.csproj",
+  "projectFilePath": "C:\\Users\\jkoro\\OneDrive\\Pulpit\\.NET_java\\ASP_CORE\\Solution\\NET_CORE\\NET_CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jkoro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jkoro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

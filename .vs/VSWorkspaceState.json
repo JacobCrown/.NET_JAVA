@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ASP_CORE",
+    "\\ASP_CORE\\Solution",
     "\\Lab1",
     "\\Lab1\\konsola",
     "\\Lab1\\konsola\\GUI",
     "\\Lab1\\konsola\\konsola"
   ],
-  "SelectedNode": "\\Lab1\\konsola\\konsola.sln",
+  "SelectedNode": "\\ASP_CORE\\Solution\\Solution.sln",
   "PreviewInSolutionExplorer": false
 }
