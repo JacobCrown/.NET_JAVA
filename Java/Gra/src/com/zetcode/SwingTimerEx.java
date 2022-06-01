@@ -1,6 +1,6 @@
 package com.zetcode;
 
-import java.awt.EventQueue;
+import java.awt.*;
 import javax.swing.JFrame;
 
 public class SwingTimerEx extends JFrame {
@@ -11,8 +11,9 @@ public class SwingTimerEx extends JFrame {
     }
 
     private void initUI() {
+        int ballsNum = 10;
 
-        add(new Board());
+        add(new Board(ballsNum));
 
         setResizable(false);
         pack();

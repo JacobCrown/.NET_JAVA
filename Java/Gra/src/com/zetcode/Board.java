@@ -3,27 +3,25 @@ package com.zetcode;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
-import java.awt.Image;
 import java.awt.Toolkit;
-import java.util.Timer;
-import java.util.TimerTask;
-import javax.swing.ImageIcon;
+import java.util.*;
 import javax.swing.JPanel;
 
 public class Board extends JPanel  {
 
-    private final int B_WIDTH = 350;
-    private final int B_HEIGHT = 350;
-    private final int INITIAL_X = -40;
-    private final int INITIAL_Y = -40;
+    int NUM_OF_BALLS;
+    private final int B_WIDTH = 960;
+    private final int B_HEIGHT = 540;
+    // private final int B_WIDTH = 200;
+    // private final int B_HEIGHT = 200;
     private final int INITIAL_DELAY = 100;
     private final int PERIOD_INTERVAL = 25;
-
-    private Circle c = new Circle(1, 1, 15, Color.WHITE);
+    private Random randomGenerator = new Random();
+    private ArrayList<Ball> ballsList = new ArrayList<Ball>();
     private Timer timer;
-    private int x, y;
 
-    public Board() {
+    public Board(int ballsNum) {
+        this.NUM_OF_BALLS = ballsNum;
 
         initBoard();
     }
@@ -32,26 +30,85 @@ public class Board extends JPanel  {
 
         setBackground(Color.BLACK);
         setPreferredSize(new Dimension(B_WIDTH, B_HEIGHT));
+        /*
+        Here we need to set initial positions of balls
+         */
 
-        c.x = INITIAL_X;
-        c.y = INITIAL_Y;
+        int width = B_WIDTH / (NUM_OF_BALLS + 1);
+        int height = B_HEIGHT / (NUM_OF_BALLS + 1);
+        int x = 0, y = 0;
+        ArrayList<Color> colorsList = new ArrayList<Color>() {
+            {
+                add(Color.WHITE);
+                add(Color.GREEN);
+                add(Color.BLUE);
+                add(Color.YELLOW);
+                add(Color.RED);
+            }
+        };
+
+        ArrayList<Integer> radiusList = new ArrayList<Integer>() {
+            {
+                add(20);
+                add(25);
+                add(30);
+                add(40);
+                add(50);
+            }
+        };
+
+        int randNum = 5;
+
+        for(int i = 0; i < NUM_OF_BALLS; i++)
+        {
+            x += width;
+            y += height;
+            // pick up random color
+            int indexColor = randomGenerator.nextInt(colorsList.size());
+            Color randomColor = colorsList.get(indexColor);
+            // pick up random radius
+            int indexRadius = randomGenerator.nextInt(colorsList.size());
+            int randomRadius = radiusList.get(indexRadius);
+
+            ballsList.add(new Ball(
+                    x,
+                    y,
+                    randomRadius,
+                    randomColor,
+                    new Vector2D(
+                            getRandomNumber(-5, 5),
+                            getRandomNumber(-5, 5)
+                    )
+            ));
+        }
 
         timer = new Timer();
         timer.scheduleAtFixedRate(new ScheduleTask(),
                 INITIAL_DELAY, PERIOD_INTERVAL);
     }
 
+    public int getRandomNumber(int min, int max) {
+        do {
+            int num = (int) ((Math.random() * (max - min)) + min);
+            if (num != 0)
+                return num;
+        } while (true);
+    }
+
     @Override
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
 
-        drawStar(g);
+        drawBalls(g);
     }
 
-    private void drawStar(Graphics g) {
+    private void drawBalls(Graphics g) {
 
-        g.setColor(Color.WHITE);
-        g.fillOval(c.x, c.y, c.radius, c.radius);
+        for(Ball b: ballsList)
+        {
+            g.setColor(b.color);
+            g.fillOval(b.x, b.y, b.radius, b.radius);
+        }
 
         Toolkit.getDefaultToolkit().sync();
     }
@@ -61,15 +118,48 @@ public class Board extends JPanel  {
         @Override
         public void run() {
 
-            c.x += 1;
-            c.y += 1;
-
-            if (c.y > B_HEIGHT) {
-                c.y = INITIAL_Y;
-                c.x = INITIAL_X;
+            for(Ball b: ballsList)
+            {
+                b.moveBall();
+                b.checkForBorderCollision(B_WIDTH, B_HEIGHT);
             }
+            // after each ball moved check for ball to ball collision
+            checkForBallCollision(ballsList);
 
             repaint();
         }
     }
+
+    public void checkForBallCollision(ArrayList<Ball> balls)
+    {
+        int distance = 0;
+        for(int i = 0; i < balls.size(); i++)
+        {
+            for(int j = i + 1; j < balls.size(); j++)
+            {
+                Ball ball1 = balls.get(i);
+                Ball ball2 = balls.get(j);
+                distance = computeDistance(ball1, ball2);
+                if (distance <= (ball1.radius + ball2.radius))
+                {
+                    System.out.println("hello there");
+                   Vector2D help;
+                   help = ball1.vector;
+                   ball1.vector = ball2.vector;
+                   ball2.vector = help;
+               }
+            }
+        }
+    }
+
+    /*
+    Method computes distance between 2 balls and their mass center
+    */
+    public int computeDistance(Ball b1, Ball b2)
+    {
+        int vx = b1.x - b2.x;
+        int vy = b1.y - b2.y;
+        return (int)Math.sqrt(vx * vx + vy * vy);
+    }
+
 }
