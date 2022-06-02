@@ -18,6 +18,7 @@ public class Board extends JPanel  {
     private final int PERIOD_INTERVAL = 25;
     private Random randomGenerator = new Random();
     private ArrayList<Ball> ballsList = new ArrayList<Ball>();
+    private ArrayList<ThreadDemo> threadsList = new ArrayList<ThreadDemo>();
     private Timer timer;
 
     public Board(int ballsNum) {
@@ -71,20 +72,30 @@ public class Board extends JPanel  {
             int randomRadius = radiusList.get(indexRadius);
 
             ballsList.add(new Ball(
+                    i + 1,
                     x,
                     y,
                     randomRadius,
                     randomColor,
                     new Vector2D(
-                            getRandomNumber(-5, 5),
-                            getRandomNumber(-5, 5)
+                            getRandomNumber(-randNum, randNum),
+                            getRandomNumber(-randNum, randNum)
                     )
             ));
+        }
+
+        for(int i = 0; i < NUM_OF_BALLS; i++)
+        {
+            threadsList.add(new ThreadDemo(
+                    ballsList.get(i).toString(),
+                    ballsList.get(i)));
+            threadsList.get(i).start();
         }
 
         timer = new Timer();
         timer.scheduleAtFixedRate(new ScheduleTask(),
                 INITIAL_DELAY, PERIOD_INTERVAL);
+
     }
 
     public int getRandomNumber(int min, int max) {
@@ -118,15 +129,15 @@ public class Board extends JPanel  {
         @Override
         public void run() {
 
+            repaint();
+
             for(Ball b: ballsList)
             {
-                b.moveBall();
                 b.checkForBorderCollision(B_WIDTH, B_HEIGHT);
             }
             // after each ball moved check for ball to ball collision
             checkForBallCollision(ballsList);
 
-            repaint();
         }
     }
 
@@ -160,6 +171,49 @@ public class Board extends JPanel  {
         int vx = b1.x - b2.x;
         int vy = b1.y - b2.y;
         return (int)Math.sqrt(vx * vx + vy * vy);
+    }
+
+    private class ThreadDemo extends Thread {
+        private Thread t;
+        private String threadName;
+        Ball ball;
+
+        ThreadDemo(String name, Ball ball) {
+            threadName = name;
+            this.ball = ball;
+            System.out.println("Creating " + threadName);
+        }
+
+        public void run() {
+            while(true){
+                ball.moveBall();
+                System.out.println(ball.toString() + " has moved");
+                try
+                {
+                    Thread.sleep(8);
+                }
+                catch (InterruptedException ex)
+                {
+                    System.out.println("Thread " + threadName + " interrupted.");
+                }
+                repaint();
+            }
+
+            // try
+            // {
+            //     Thread.sleep(100);
+            //     System.out.println("Running " + threadName);
+            //     System.out.println("Thread " + threadName + " exiting.");
+            // }
+        }
+
+        public void start() {
+            System.out.println("Starting " + threadName);
+            if (t == null) {
+                t = new Thread(this, threadName);
+                t.start();
+            }
+        }
     }
 
 }
